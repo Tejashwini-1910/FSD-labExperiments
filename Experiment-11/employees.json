@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "position": "Software Engineer",
+    "department": "Engineering"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "position": "Project Manager",
+    "department": "Operations"
+  },
+  {
+    "id": 3,
+    "name": "Peter Jones",
+    "position": "UX Designer",
+    "department": "Design"
+  }
+]

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html ng-app="employeeApp">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Employee Data Access</title>
+
+    <!-- AngularJS CDN -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+
+    <!-- App Script -->
+    <script src="app.js"></script>
+</head>
+
+<body ng-controller="EmployeeController">
+
+<h1>Employee Data</h1>
+
+<p>{{statusMessage}}</p>
+
+<table border="1" ng-if="employees.length">
+<tr>
+<th>ID</th>
+<th>Name</th>
+<th>Position</th>
+<th>Department</th>
+</tr>
+
+<tr ng-repeat="employee in employees">
+<td>{{employee.id}}</td>
+<td>{{employee.name}}</td>
+<td>{{employee.position}}</td>
+<td>{{employee.department}}</td>
+</tr>
+
+</table>
+
+</body>
+</html>
