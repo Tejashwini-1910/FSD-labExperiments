@@ -93,6 +93,8 @@ MongoDB automatically creates the database and collection when the first documen
 
 ---
 
+![Mongodb compass](screenshots/FSD-lab6.png)
+
 ```text
 C:\Users....\FSD-labExpeiments\Experiment-6> node mongo-app.js
 Connected successfully to MongoDB
@@ -138,4 +140,6 @@ Inserted ID: new ObjectId('69b528a0a026752a382bf7ef')
 - myTestDB
 
 MongoDB connection closed
-![Mongodb compass](screenshots/FSD-lab6.png)
+
+----
+
