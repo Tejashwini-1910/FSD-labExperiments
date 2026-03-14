@@ -88,6 +88,5 @@ The AngularJS form was successfully developed with **dynamic CSS styling and eve
 
 ### Output
 ---
-![](screenshots/FSD-exp9.1.png)
 ![](screenshots/FSD-exp9.2.png)
 ![](screenshots/FSD-exp9.3.png)
