@@ -83,3 +83,11 @@ or run using **VS Code Live Server**.
 ## Result
 
 The AngularJS form was successfully developed with **dynamic CSS styling and event handling**, demonstrating form validation, input binding, button click events, and form submission using AngularJS directives.
+
+---
+
+### Output
+---
+![](screenshots/FSD-exp9.1.png)
+![](screenshots/FSD-exp9.2.png)
+![](screenshots/FSD-exp9.3.png)
